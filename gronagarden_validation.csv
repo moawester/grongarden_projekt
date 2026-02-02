@@ -1,0 +1,445 @@
+order_id,orderrad_id,orderdatum,önskat_leveransdatum,faktiskt_leveransdatum,produkt_id,produktnamn,kategori,säsong,antal,pris,vikt_gram,leveranszon,kund_id,recension_text,recensionsdatum,betyg
+GG-2025-00001,GG-2025-00001-1,2025-01-08,2025-01-10,2025-01-10,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-13764,,,
+GG-2025-00002,GG-2025-00002-1,2025-01-25,,2025-02-04,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,4,299.0,2000,Zon 5,KUND-14079,"Skadad leverans, hälften obrukbart.",2025-02-11,1
+GG-2025-00003,GG-2025-00003-1,2025-01-14,2025-01-21,2025-01-23,JOR-NAR-001,Gödsel flytande,Jord & näring,Alla,1,99.0,1100,Zon 5,KUND-14817,,,
+GG-2025-00003,GG-2025-00003-2,2025-01-14,2025-01-21,2025-01-23,JOR-NAR-001,FLYTANDE NÄRING,Jord & näring,Alla,5,"99,00",1100,Zon5,KUND-14817,,,
+GG-2025-00003,GG-2025-00003-3,2025-01-14,2025-01-21,2025-01-23,FRO-TOM-002,Tomatfrön 'Biff',Frön,,2,55.0,5,Zon 5,KUND-14817,"Skadad leverans, hälften obrukbart.",2025-01-30,1
+GG-2025-00003,GG-2025-00003-4,2025-01-14,2025-01-21,2025-01-23,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 5,KUND-14817,,,
+GG-2025-00003,GG-2025-00003-5,2025-01-14,2025-01-21,2025-01-23,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 5,KUND-14817,,,
+GG-2025-00004,GG-2025-00004-1,2025-01-13,2025-01-16,2025-01-16,PLT-INO-002,Fredskalla,Inomhusväxter,,1,149.0,800,Mellansverige,KUND-14079,"Min monstera är fantastisk, så stor och fin!",2025-02-09,4
+GG-2025-00004,GG-2025-00004-2,2025-01-13,2025-01-16,2025-01-16,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 2,KUND-14079,Snabb leverans och bra kvalitet på jorden.,2025-01-29,5
+GG-2025-00004,GG-2025-00004-3,2025-01-13,2025-01-16,2025-01-16,PLT-INO-001,Monstera deliciosa,Inomhusväxter,alla,3,299.0,2000,Zon 2,KUND-14079,Mycket dålig kommunikation om förseningen.,2025-01-20,2
+GG-2025-00004,GG-2025-00004-4,2025-01-13,2025-01-16,2025-01-16,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon2,KUND-14079,Plantorna var i dåligt skick redan från start.,2025-02-15,2
+GG-2025-00005,GG-2025-00005-1,2025-01-21,2025-01-28,2025-01-28,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 4,KUND-13694,,,
+GG-2025-00006,GG-2025-00006-1,2025-01-06,2025-01-08,2025-01-08,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 1,KUND-13764,"Beställde vårblommor, de kom i juni - för sent.",2025-01-14,1
+GG-2025-00006,GG-2025-00006-2,2025-01-06,08.01.2025,2025-01-08,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,5,149.0,400,Zon 1,KUND-13764,,,
+GG-2025-00007,GG-2025-00007-1,2025-01-05,2025-01-08,2025-01-08,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,3,149.0,25000,Zon 2,KUND-10431,,,
+GG-2025-00008,GG-2025-00008-1,2025-01-22,,2025-01-25,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 2,KUND-11428,Inget grodde trots att jag följde instruktionerna.,2025-01-30,2
+GG-2025-00008,GG-2025-00008-2,2025-01-22,2025-01-25,2025-01-25,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 2,KUND-11428,"Allt var trasigt, kartong totalförstörd.",2025-02-07,2
+GG-2025-00008,GG-2025-00008-3,2025-01-22,2025-01-25,2025-01-25,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5g,Zon 2,KUND-11428,"Medelmåttigt, förpackningen var lite skadad.",2025-02-05,3
+GG-2025-00008,GG-2025-00008-4,2025-01-22,2025-01-25,2025-01-25,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,3,179.0,600,Zon 2,KUND-11428,,,
+GG-2025-00009,GG-2025-00009-1,2025-01-06,2025-01-10,2025-01-14,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 2,KUND-11029,,,
+GG-2025-00009,GG-2025-00009-2,2025-01-06,2025-01-10,2025-01-14,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,3,49.0,5,Zon 2,KUND-11029,"Väntade i 12 dagar, plantorna överlevde inte.",2025-02-10,1
+GG-2025-00009,GG-2025-00009-3,2025-01-06,2025-01-10,2025-01-14,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,4st,39.0,8,Zon 2,KUND-11029,,,
+GG-2025-00010,GG-2025-00010-1,2025-01-12,2025-01-14,2025-01-14,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-11206,,,
+GG-2025-00010,GG-2025-00010-2,2025-01-12,2025-01-14,2025-01-14,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25.0kg,Zon 1,KUND-11206,"Tomaterna växer som aldrig förr, tack!",2025-02-10,5
+GG-2025-00011,GG-2025-00011-1,2025-01-03,,2024-12-30,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-11819,,,
+GG-2025-00012,GG-2025-00012-1,2025-01-03,2025-01-06,2025-01-06,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon1,KUND-11516,,,
+GG-2025-00012,GG-2025-00012-2,2025-01-03,2025-01-06,2025-01-06,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 1,KUND-11516,,,
+GG-2025-00012,GG-2025-00012-3,2025-01-03,2025-01-06,2025-01-06,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 1,KUND-11516,,,
+GG-2025-00013,GG-2025-00013-1,2025-01-27,2025-01-30,2025-01-30,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 2,KUND-13406,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-02-22,5
+GG-2025-00013,GG-2025-00013-2,2025-01-27,2025-01-30,2025-01-30,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 2,KUND-13406,"Tomaterna växer som aldrig förr, tack!",2025-02-20,5
+GG-2025-00014,GG-2025-00014-1,2025-01-24,2025-01-26,2025-01-26,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 1,KUND-11428,,,
+GG-2025-00015,GG-2025-00015-1,2025-01-13,2025-01-17,2025-01-17,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 2,KUND-12675,,,
+GG-2025-00015,GG-2025-00015-2,2025-01-13,2025-01-17,2025-01-17,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 2,KUND-12675,"Fröerna grodde på under en vecka, fantastiskt!",2025-02-14,4
+GG-2025-00016,GG-2025-00016-1,2025-01-04,2025-01-08,2025-01-08,FRO-TOM-001,Tommat Tiny Tim,Frön,Tidig vår,1,49.0,5,Zon 2,KUND-11819,Bästa fröerna jag testat. Hög grobarhet.,2025-01-30,5
+GG-2025-00017,GG-2025-00017-1,2025-01-16,2025-01-18,2025-01-18,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon 1,KUND-13381,,,
+GG-2025-00017,GG-2025-00017-2,2025-01-16,Jan 18 2025,2025-01-18,KRU-TER-001,TERRAKOTTAKRUKA,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-13381,,,
+GG-2025-00017,GG-2025-00017-3,2025-01-16,2025-01-18,2025-01-18,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,2,299.0,2000 gram,Zon 1,KUND-13381,,,
+GG-2025-00018,GG-2025-00018-1,2025-01-07,2025-01-11,2025-01-11,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,0,800,Zon 2,KUND-13159,Halva fröerna var redan mögliga i påsen.,2025-02-03,2
+GG-2025-00018,GG-2025-00018-2,2025-01-07,2025-01-11,2025-01-11,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon 2,KUND-13159,,,
+GG-2025-00018,GG-2025-00018-3,2025-01-07,2025-01-11,2025-01-11,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 2,KUND-13159,Bästa fröerna jag testat. Hög grobarhet.,2025-01-17,5
+GG-2025-00019,GG-2025-00019-1,2025-01-03,2025-01-08,2025-01-08,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 3,KUND-12367,,,
+GG-2025-00020,GG-2025-00020-1,2025-01-24,2025-01-31,31.01.2025,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,4,129.0,500,Zon 4,KUND-12675,,,
+GG-2025-00020,GG-2025-00020-2,2025-01-24,,2025-01-31,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,en,129.0,1500,Zon 4,KUND-12675,,,
+GG-2025-00020,GG-2025-00020-3,2025-01-24,2025-01-31,2025-01-31,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,3,199.0,800,Zon 4,KUND-12675,,,
+GG-2025-00021,GG-2025-00021-1,2025-01-17,,2025-01-19,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,,KUND-10830,,,
+GG-2025-00021,GG-2025-00021-2,2025-01-17,2025-01-19,2025-01-19,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-10830,,,
+GG-2025-00021,GG-2025-00021-3,2025-01-17,2025-01-19,2025-01-19,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,5,129.0,1500,Zon 1,KUND-10830,Inget grodde trots att jag följde instruktionerna.,2025-02-10,2
+GG-2025-00022,GG-2025-00022-1,2025-01-13,,2025-01-18,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 3,KUND-13764,,,
+GG-2025-00022,GG-2025-00022-2,2025-01-13,2025-01-18,18/01/2025,KRU-TER-001,terrakottakruka 25cm,Krukor & kärl,,1,129.0,1500,Zon 3,KUND-13764,,,
+GG-2025-00022,GG-2025-00022-3,2025-01-13,2025-01-18,2025-01-18,VER-SKY-001,Spade,Verktyg & tillbehör,Alla,1,199.0,800,,KUND-13764,"Det gick an, inte mer inte mindre.",2025-01-21,3
+GG-2025-00022,GG-2025-00022-4,2025-01-13,,2025-01-18,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 3,KUND-13764,,,
+GG-2025-00023,GG-2025-00023-1,2025-01-01,,2025-01-07,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 2,KUND-10335,Inget grodde trots att jag följde instruktionerna.,2025-01-29,1
+GG-2025-00023,GG-2025-00023-2,2025-01-01,2025-01-04,2025-01-07,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 2,KUND-10335,"Fick fel sort, ville ha röd pelargon, fick vit.",2025-02-05,1
+GG-2025-00023,GG-2025-00023-3,2025-01-01,2025-01-04,2025-01-07,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25000,Zon 2,KUND-10335,Leveransen var ok men förpackningen kunde varit bättre.,2025-01-18,3
+GG-2025-00024,GG-2025-00024-1,2025-01-15,2025-01-19,2025-01-19,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,3,149.0,800,Zon 2,KUND-13381,Överraskad över hur snabbt leveransen kom!,2025-01-24,5
+GG-2025-00024,GG-2025-00024-2,2025-01-15,,2025-01-19,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 2,KUND-13381,,,
+GG-2025-00025,GG-2025-00025-1,2025-01-12,2025-01-14,2025-01-14,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zon 1,KUND-11243,"Allt var trasigt, kartong totalförstörd.",2025-01-20,2
+GG-2025-00025,GG-2025-00025-2,2025-01-12,,2025-01-14,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 1,KUND-11243,,,
+GG-2025-00026,GG-2025-00026-1,2025-01-26,,2025-02-04,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,4,49.0,5,Zon 4,KUND-11516,Trasig förpackning och vissna plantor.,2025-02-23,1
+GG-2025-00026,GG-2025-00026-2,2025-01-26,2025-02-01,2025-02-04,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,4,99.0,1100 g,Zon 4,KUND-11516,,,
+GG-2025-00027,GG-2025-00027-1,2025-01-02,2025-01-06,2025-01-06,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,50000,Mellansverige,KUND-10335,,,
+GG-2025-00027,GG-2025-00027-2,2025-01-02,,2025-01-06,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon 2,KUND-10335,,,
+GG-2025-00028,GG-2025-00028-1,2025-01-08,2025-01-15,2025-01-15,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8g,Zone 5,KUND-11029,Perfekt för balkongen. Pelargonerna blommar redan.,2025-01-21,4
+GG-2025-00029,GG-2025-00029-1,2025-01-13,2025-01-15,2025-01-17,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 1,KUND-13764,,,
+GG-2025-00030,GG-2025-00030-1,2025-01-09,2025-01-12,2025-01-12,KRU-PLA-001,Plastlåda 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 2,KUND-13786,"Mycket nöjd, allt kom fram i bra skick.",2025-02-06,5
+GG-2025-00030,GG-2025-00030-2,2025-01-09,2025-01-12,2025-01-12,KRU-PLA-001,Balkonglåda plast,Krukor & kärl,Alla,4,149.0,400,Zon 2,KUND-13786,Bästa fröerna jag testat. Hög grobarhet.,2025-01-29,5
+GG-2025-00030,GG-2025-00030-3,2025-01-09,2025-01-12,2025-01-12,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 2,KUND-13786,,,
+GG-2025-00030,GG-2025-00030-4,2025-01-09,2025-01-12,2025-01-12,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 2,KUND-13786,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-01-20,5
+GG-2025-00031,GG-2025-00031-1,2025-01-28,,2025-02-01,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 3,KUND-12554,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-03-02,5
+GG-2025-00032,GG-2025-00032-1,2025-01-21,2025-01-25,2025-01-25,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,,KUND-12627,,,
+GG-2025-00033,GG-2025-00033-1,2025-01-15,2025-01-17,2025-01-17,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 1,KUND-12627,Perfekt för balkongen. Pelargonerna blommar redan.,2025-02-16,4
+GG-2025-00034,GG-2025-00034-1,2025-01-26,2025-01-30,2025-01-30,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-11421,,,
+GG-2025-00034,GG-2025-00034-2,26/01/2025,2025-01-30,2025-01-30,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 2,KUND-11421,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-02-15,5
+GG-2025-00035,GG-2025-00035-1,2025-01-24,2025-01-26,2025-01-26,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-11549,Jättebra service och produkter av hög kvalitet.,2025-02-25,5
+GG-2025-00036,GG-2025-00036-1,2025-01-18,2025-01-26,2025-01-29,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zone 5,KUND-11029,"Besvikelse, basilikan dog inom en vecka.",2025-02-08,2
+GG-2025-00037,GG-2025-00037-1,2025-01-05,,2025-01-12,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 4,KUND-11326,,,
+GG-2025-00037,GG-2025-00037-2,2025-01-05,2025-01-12,2025-01-12,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 4,KUND-11326,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-01-15,4
+GG-2025-00038,GG-2025-00038-1,2025-01-07,2025-01-10,2025-01-16,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,4,129 kr,500,,KUND-10926,Snabb leverans och bra kvalitet på jorden.,2025-01-28,4
+GG-2025-00038,GG-2025-00038-2,2025-01-07,2025-01-10,2025-01-16,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-10926,Leveransen tog lite längre än väntat men okej.,2025-02-12,3
+GG-2025-00039,GG-2025-00039-1,2025-01-07,2025-01-10,2025-01-10,PLT-INO-003,Gullranka ampel,Inomhusväxter,alla,1,129.0,500,Storstadsområden,KUND-10431,,,
+GG-2025-00040,GG-2025-00040-1,2025-01-11,2025-01-14,Jan 14 2025,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,Zon1,KUND-13317,,,
+GG-2025-00040,GG-2025-00040-2,2025-01-11,2025-01-14,2025-01-14,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 1,KUND-13317,,,
+GG-2025-00040,GG-2025-00040-3,2025-01-11,2025-01-14,2025-01-14,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,Zon 1,KUND-13317,"Vackra plantor, välpackade och friska vid leverans.",2025-02-13,4
+GG-2025-00041,GG-2025-00041-1,2025-01-18,2025-01-25,2025-01-25,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 4,KUND-14944,Priset är högt för vad man får.,2025-02-01,3
+GG-2025-00042,GG-2025-00042-1,2025-01-22,2025-01-26,2025-02-02,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,,KUND-13764,,,
+GG-2025-00042,GG-2025-00042-2,2025-01-22,2025-01-26,2025-02-02,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,3,299.0,2000,Zon 2,KUND-13764,"Bra pris och snabb leverans, 5 stjärnor!",2025-02-11,5
+GG-2025-00043,GG-2025-00043-1,2025-02-23,2025-02-27,2025-03-01,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 3,KUND-11854,,,
+GG-2025-00044,GG-2025-00044-1,2025-02-03,2025-02-05,05.02.2025,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55:-,5,Zon 1,KUND-13897,"Produkten var ok, servicen kunde varit bättre.",2025-03-05,3
+GG-2025-00045,GG-2025-00045-1,2025-02-04,2025-02-06,2025-02-06,PLT-INO-003,Gullranka,Inomhusväxter,alla,1,129.0,500,Zon 1,KUND-13381,Halva fröerna var redan mögliga i påsen.,2025-03-04,2
+GG-2025-00046,GG-2025-00046-1,2025-02-18,2025-02-20,2025-02-20,FRO-TOM-002,Tomatfrön 'Biff',Frön,tidig vår,1,55.0,5,Zon 1,KUND-12914,,,
+GG-2025-00046,GG-2025-00046-2,2025-02-18,2025-02-20,2025-02-20,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-12914,,,
+GG-2025-00047,GG-2025-00047-1,2025-02-21,2025-02-25,2025-02-25,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon 2,KUND-11326,,,
+GG-2025-00047,GG-2025-00047-2,2025-02-21,2025-02-25,2025-02-25,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-11326,Halva fröerna var redan mögliga i påsen.,2025-03-03,1
+GG-2025-00047,GG-2025-00047-3,2025-02-21,2025-02-25,2025-02-25,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-11326,,,
+GG-2025-00048,GG-2025-00048-1,2025-02-04,2025-02-10,2025-02-10,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 4,KUND-10970,,,
+GG-2025-00048,GG-2025-00048-2,2025-02-04,2025-02-10,2025-02-10,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,2,149.0,800,Zon 4,KUND-10970,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-02-17,5
+GG-2025-00048,GG-2025-00048-3,2025-02-04,2025-02-10,2025-02-10,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 4,KUND-10970,Ok kvalitet men lite dyrt tycker jag.,2025-03-10,3
+GG-2025-00049,GG-2025-00049-1,24.02.2025,2025-03-03,2025-03-03,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,2,79.0,600,Zon 4,KUND-11206,,,
+GG-2025-00050,GG-2025-00050-1,2025-02-11,2025-02-18,2025-02-18,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 4,KUND-14872,,,
+GG-2025-00051,GG-2025-00051-1,2025-02-04,2025-02-07,2025-02-07,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,,KUND-11787,"Väntade i 12 dagar, plantorna överlevde inte.",2025-03-08,2
+GG-2025-00051,GG-2025-00051-2,2025-02-04,2025-02-07,2025-02-07,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-11787,"Gullrankan är så vacker, perfekt hängväxt.",2025-02-17,5
+GG-2025-00052,GG-2025-00052-1,2025-02-10,2025-02-15,2025-02-15,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 4,KUND-11516,,,
+GG-2025-00052,GG-2025-00052-2,2025-02-10,2025-02-15,2025-02-15,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 4,KUND-11516,,,
+GG-2025-00053,GG-2025-00053-1,2025-02-03,2025-02-05,2025-02-05,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,4,129.0,500,Zon 1,KUND-13748,,,
+GG-2025-00053,GG-2025-00053-2,2025-02-03,2025-02-05,2025-02-05,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 1,KUND-13748,,,
+GG-2025-00053,GG-2025-00053-3,2025-02-03,2025-02-05,2025-02-05,FRO-TOM-001,Tomat TinyTim,Frön,Tidig vår,2,49.0,5,Zon 1,KUND-13748,,,
+GG-2025-00053,GG-2025-00053-4,2025-02-03,2025-02-05,2025-02-05,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,,KUND-13748,"Förpackningen var krossad, krukan i bitar.",2025-03-04,1
+GG-2025-00053,GG-2025-00053-5,2025-02-03,2025-02-05,2025-02-05,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,2,99.0,1100,Zone 1,KUND-13748,"Mycket nöjd, allt kom fram i bra skick.",2025-02-27,5
+GG-2025-00054,GG-2025-00054-1,2025-02-18,2025-02-21,2025-02-21,KRU-TER-001,Terrakotta 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-13896,,,
+GG-2025-00054,GG-2025-00054-2,2025-02-18,2025-02-21,2025-02-21,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25000,Zon 1,KUND-13896,,,
+GG-2025-00054,GG-2025-00054-3,2025-02-18,2025-02-21,2025-02-21,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 1,KUND-13896,,,
+GG-2025-00055,GG-2025-00055-1,2025-02-13,17.02.2025,2025-02-17,FRO-SAL-001,Sallads frön,Frön,Vår,4,39.0,8,Zon 3,KUND-10926,,,
+GG-2025-00056,GG-2025-00056-1,2025-02-28,2025-03-03,2025-03-03,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-14631,,,
+GG-2025-00057,GG-2025-00057-1,2025-02-13,2025-02-19,2025-02-19,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 4,KUND-12627,,,
+GG-2025-00057,GG-2025-00057-2,2025-02-13,19/02/2025,2025-02-19,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 4,KUND-12627,,,
+GG-2025-00057,GG-2025-00057-3,2025-02-13,2025-02-19,2025-02-19,PLT-INO-002,Fredskalla,Inomhusväxter,,1,149.0,800,Zon 4,KUND-12627,,,
+GG-2025-00058,GG-2025-00058-1,2025-02-08,2025-02-10,2025-02-10,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,1,99.0,1100,Zon 1,KUND-13349,Överraskad över hur snabbt leveransen kom!,2025-02-14,5
+GG-2025-00058,GG-2025-00058-2,2025-02-08,2025-02-10,2025-02-10,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 1,KUND-13349,,,
+GG-2025-00058,GG-2025-00058-3,2025-02-08,2025-02-10,2025-02-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 1,KUND-13349,,,
+GG-2025-00059,GG-2025-00059-1,2025-02-17,2025-02-20,2025-02-20,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 1,KUND-12383,,,
+GG-2025-00060,GG-2025-00060-1,2025-02-27,04/03/2025,2025-03-04,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,4,149.0,400,Zon 3,KUND-11421,,,
+GG-2025-00060,GG-2025-00060-2,2025-02-27,2025-03-04,2025-03-04,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,,KUND-11421,"Fungerar, men hade förväntat mig större plantor.",2025-03-14,3
+GG-2025-00060,GG-2025-00060-3,2025-02-27,2025-03-04,2025-02-24,FRO-TOM-002,Biffftomat,Frön,Tidig vår,3,55.0,5,Zon 3,KUND-11421,,,
+GG-2025-00060,GG-2025-00060-4,2025-02-27,2025-03-04,2025-03-04,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 3,KUND-11421,"Mycket nöjd, allt kom fram i bra skick.",2025-04-01,4
+GG-2025-00061,GG-2025-00061-1,2025-02-15,2025-02-20,2025-02-20,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 3,KUND-11421,,,
+GG-2025-00061,GG-2025-00061-2,2025-02-15,2025-02-20,2025-02-20,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 3,KUND-11421,"Mycket nöjd, allt kom fram i bra skick.",2025-03-09,5
+GG-2025-00062,GG-2025-00062-1,2025-02-19,2025-02-24,2025-02-24,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 3,KUND-13166,,,
+GG-2025-00062,GG-2025-00062-2,2025-02-19,24/02/2025,2025-02-24,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,1,149.0,800,Zon 3,KUND-13166,Perfekt för balkongen. Pelargonerna blommar redan.,2025-03-26,4
+GG-2025-00063,GG-2025-00063-1,2025-02-16,2025-02-19,2025-02-11,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 1,KUND-10335,,,
+GG-2025-00064,GG-2025-00064-1,2025-02-14,2025-02-17,2025-02-17,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 2,KUND-13349,,,
+GG-2025-00064,GG-2025-00064-2,2025-02-14,2025-02-17,2025-02-17,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,3,299.0,2000,Zon 2,KUND-13349,,,
+GG-2025-00065,GG-2025-00065-1,2025-02-16,2025-02-18,2025-02-18,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,,1,79.0,600,Zon 1,KUND-11787,,,
+GG-2025-00065,GG-2025-00065-2,2025-02-16,2025-02-18,2025-02-18,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,-1500,Zone 1,KUND-11787,"Gullrankan är så vacker, perfekt hängväxt.",2025-03-19,5
+GG-2025-00066,GG-2025-00066-1,2025-02-05,2025-02-07,2025-02-07,PLT-INO-003,Gullranka ampel,Inomhusväxter,,1,129.0,500,Zon 1,KUND-14947,"Proffsigt packade, inget var skadat.",2025-02-23,4
+GG-2025-00067,GG-2025-00067-1,2025-02-14,2025-02-19,2025-02-19,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 3,KUND-13748,,,
+GG-2025-00067,GG-2025-00067-2,2025-02-14,,2025-02-19,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,,KUND-13748,,,
+GG-2025-00067,GG-2025-00067-3,2025-02-14,,2025-02-19,PLT-INO-003,gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 3,KUND-13748,"Mycket nöjd, allt kom fram i bra skick.",2025-02-25,5
+GG-2025-00068,GG-2025-00068-1,2025-02-16,2025-02-24,2025-03-02,KRU-TER-001,terrakottakruka 25cm,Krukor & kärl,Alla,4,129.0,1500,Zon 5,KUND-11428,,,
+GG-2025-00069,GG-2025-00069-1,2025-02-05,2025-02-10,2025-02-10,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,3,89.0,12500,Zon 3,KUND-12627,Paketet såg ut att ha kastats från lastbilen.,2025-02-24,1
+GG-2025-00069,GG-2025-00069-2,2025-02-05,,2025-02-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 3,KUND-12627,,,
+GG-2025-00069,GG-2025-00069-3,2025-02-05,2025-02-10,2025-02-10,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,4,179.0,600,Zon 3,KUND-12627,Tomatplantorna frös under transporten.,2025-02-25,1
+GG-2025-00070,GG-2025-00070-1,2025-02-09,2025-02-12,2025-02-12,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 2,KUND-11421,Halva fröerna var redan mögliga i påsen.,2025-02-25,1
+GG-2025-00071,GG-2025-00071-1,2025-02-10,2025-02-20,2025-02-20,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 5,KUND-13878,"Fel produkt skickades. Beställde tomater, fick gurka.",2025-03-17,1
+GG-2025-00071,GG-2025-00071-2,2025-02-10,2025-02-20,2025-02-20,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55 kr,5,Zon 5,KUND-13878,,,
+GG-2025-00072,GG-2025-00072-1,2025-02-07,2025-02-11,2025-02-14,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,4,39.0,8,Zon 3,KUND-14001,"Vackra plantor, välpackade och friska vid leverans.",2025-02-18,5
+GG-2025-00072,GG-2025-00072-2,2025-02-07,2025-02-11,2025-02-14,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,4,149.0,400,Zon 3,KUND-14001,Halva fröerna var redan mögliga i påsen.,2025-02-19,1
+GG-2025-00073,GG-2025-00073-1,2025-02-12,2025-02-15,2025-02-15,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,Zon 1,KUND-13106,,,
+GG-2025-00073,GG-2025-00073-2,2025-02-12,2025-02-15,2025-02-15,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,Zon 1,KUND-13106,Krukorna låg i bitar i lådan.,2025-03-05,2
+GG-2025-00073,GG-2025-00073-3,2025-02-12,2025-02-15,2025-02-15,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,2,179.0,600,Zon 1,KUND-13106,,,
+GG-2025-00074,GG-2025-00074-1,2025-02-27,2025-03-03,2025-03-03,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 3,KUND-14248,"Vackra plantor, välpackade och friska vid leverans.",2025-03-19,5
+GG-2025-00074,GG-2025-00074-2,2025-02-27,2025-03-03,2025-03-03,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,tre,59.0,15,Zon 3,KUND-14248,,,
+GG-2025-00074,GG-2025-00074-3,2025-02-27,2025-03-03,2025-03-03,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,2,79.0,600,Zon 3,KUND-14248,,,
+GG-2025-00074,GG-2025-00074-4,2025-02-27,2025-03-03,2025-03-03,KRU-TER-001,TERRAKOTTAKRUKA,Krukor & kärl,,1,0,1500,Zon 3,KUND-14248,,,
+GG-2025-00075,GG-2025-00075-1,2025-02-08,2025-02-11,2025-02-11,FRO-TOM-002,Tommatfrön Biff,Frön,Tidig vår,3,55.0,5,Zon 1,KUND-14971,,,
+GG-2025-00075,GG-2025-00075-2,2025-02-08,2025-02-11,2025-02-04,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,3,149.0,800,Zon 1,KUND-14971,,,
+GG-2025-00076,GG-2025-00076-1,2025-02-16,2025-02-23,2025-02-23,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,4,149.0,800,Zon 5,KUND-12383,,,
+GG-2025-00076,GG-2025-00076-2,2025-02-16,,2025-02-23,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 5,KUND-12383,"Min monstera är fantastisk, så stor och fin!",2025-03-22,5
+GG-2025-00076,GG-2025-00076-3,2025-02-16,23/02/2025,2025-02-23,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 5,KUND-12383,,,
+GG-2025-00077,GG-2025-00077-1,2025-02-27,2025-03-06,2025-03-06,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 5,KUND-11107,"Proffsigt packade, inget var skadat.",2025-03-22,4
+GG-2025-00078,GG-2025-00078-1,2025-02-17,2025-02-24,2025-02-24,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 4,KUND-13890,,,
+GG-2025-00078,GG-2025-00078-2,2025-02-17,2025-02-24,2025-02-24,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 4,KUND-13890,,,
+GG-2025-00079,GG-2025-00079-1,2025-02-04,2025-02-07,2025-02-07,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1st,55.0,5,Storstadsområden,KUND-10698,,,
+GG-2025-00079,GG-2025-00079-2,2025-02-04,2025-02-07,2025-02-07,PLT-INO-002,Fredskalla,Inomhusväxter,Alla,4,149.0,800,Zon 1,KUND-10698,,,
+GG-2025-00080,GG-2025-00080-1,2025-02-21,2025-02-25,04.03.2025,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,4,199.0,-800,Zon 3,KUND-12367,,,
+GG-2025-00080,GG-2025-00080-2,2025-02-21,2025-02-25,2025-03-04,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 3,KUND-12367,,,
+GG-2025-00080,GG-2025-00080-3,2025-02-21,2025-02-25,Mar 04 2025,JOR-PLA-001,Planteringsjord 50 liter,Jord & näring,Vår,1,149.0,25000,Zon 3,KUND-12367,,,
+GG-2025-00081,GG-2025-00081-1,2025-02-10,Feb 12 2025,2025-02-12,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-14302,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-02-16,4
+GG-2025-00082,GG-2025-00082-1,2025-02-25,2025-02-28,2025-02-28,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,5,129.0,1500,Zon 1,KUND-11243,"Hälften grodde, hälften inte. Ojämn kvalitet.",2025-03-14,3
+GG-2025-00082,GG-2025-00082-2,Feb 25 2025,2025-02-28,2025-02-28,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,-600,Zon 1,KUND-11243,Snabb leverans och bra kvalitet på jorden.,2025-03-23,5
+GG-2025-00082,GG-2025-00082-3,2025-02-25,2025-02-28,2025-02-28,JOR-NAR-001,Flytande näring 1L,Jord & näring,Alla,3,99.0,1100,Zon 1,KUND-11243,,,
+GG-2025-00083,GG-2025-00083-1,2025-02-06,2025-02-11,2025-02-11,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 4,KUND-14646,"Bra pris och snabb leverans, 5 stjärnor!",2025-02-18,5
+GG-2025-00083,GG-2025-00083-2,2025-02-06,2025-02-11,2025-02-11,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,Zon 4,KUND-14646,Krukorna låg i bitar i lådan.,2025-02-26,1
+GG-2025-00084,GG-2025-00084-1,2025-02-09,2025-02-13,2025-02-13,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,fyra,199.0,800,Zon 3,KUND-10559,,,
+GG-2025-00084,GG-2025-00084-2,2025-02-09,,2025-02-13,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 3,KUND-10559,"Vackra plantor, välpackade och friska vid leverans.",2025-03-04,5
+GG-2025-00084,GG-2025-00084-3,2025-02-09,2025-02-13,13.02.2025,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 3,KUND-10559,Paketet såg ut att ha kastats från lastbilen.,2025-03-12,1
+GG-2025-00084,GG-2025-00084-4,2025-02-09,2025-02-13,2025-02-13,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 3,KUND-10559,Överraskad över hur snabbt leveransen kom!,2025-02-28,4
+GG-2025-00084,GG-2025-00084-5,2025-02-09,2025-02-13,2025-02-13,PLT-INO-003,Gullranka ampel,Inomhusväxter,ALLA,1,129.0,500,Zon 3,KUND-10559,,,
+GG-2025-00085,GG-2025-00085-1,2025-02-03,2025-02-05,2025-02-05,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 1,KUND-11783,Tomatplantorna frös under transporten.,2025-03-07,2
+GG-2025-00085,GG-2025-00085-2,2025-02-03,2025-02-05,05/02/2025,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Storstadsområden,KUND-11783,,,
+GG-2025-00085,GG-2025-00085-3,2025-02-03,2025-02-05,2025-02-05,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,,KUND-11783,,,
+GG-2025-00086,GG-2025-00086-1,2025-02-24,2025-02-26,2025-02-28,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,,1,149 kr,400,Zon 1,KUND-12411,,,
+GG-2025-00086,GG-2025-00086-2,2025-02-24,2025-02-26,2025-02-28,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,,2,49.0,5,Zon 1,KUND-12411,,,
+GG-2025-00086,GG-2025-00086-3,2025-02-24,2025-02-26,2025-02-28,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 1,KUND-12411,,,
+GG-2025-00086,GG-2025-00086-4,2025-02-24,2025-02-26,2025-02-28,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,3,39.0,8,Zon 1,KUND-12411,,,
+GG-2025-00087,GG-2025-00087-1,2025-02-14,2025-02-17,2025-02-17,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,2,49.0,5,Zon 1,KUND-14648,,,
+GG-2025-00088,GG-2025-00088-1,2025-02-23,2025-02-27,2025-02-27,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 3,KUND-13438,,,
+GG-2025-00088,GG-2025-00088-2,2025-02-23,2025-02-27,2025-02-27,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 3,KUND-13438,,,
+GG-2025-00089,GG-2025-00089-1,2025-02-18,2025-02-28,2025-02-28,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 5,KUND-14971,"Min monstera är fantastisk, så stor och fin!",2025-03-06,5
+GG-2025-00089,GG-2025-00089-2,2025-02-18,2025-02-28,2025-02-28,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 5,KUND-14971,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-03-21,4
+GG-2025-00090,GG-2025-00090-1,2025-02-13,2025-02-18,2025-02-18,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 3,KUND-14035,"Fröerna grodde på under en vecka, fantastiskt!",2025-02-26,5
+GG-2025-00090,GG-2025-00090-2,2025-02-13,2025-02-18,2025-02-08,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 3,KUND-14035,Kommer definitivt beställa igen nästa säsong.,2025-03-09,5
+GG-2025-00091,GG-2025-00091-1,Feb 08 2025,2025-02-12,2025-02-12,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,0,5,Zon 3,KUND-13764,Mycket dålig kommunikation om förseningen.,2025-03-06,2
+GG-2025-00091,GG-2025-00091-2,2025-02-08,2025-02-12,2025-02-12,FRO-SAL-001,Sallat mix,Frön,Vår,3,39.0,8,Zon 3,KUND-13764,,,
+GG-2025-00092,GG-2025-00092-1,2025-02-20,2025-02-25,2025-02-25,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 3,KUND-12490,,,
+GG-2025-00092,GG-2025-00092-2,2025-02-20,,2025-02-25,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 3,KUND-12490,"Proffsigt packade, inget var skadat.",2025-03-17,5
+GG-2025-00093,GG-2025-00093-1,2025-02-16,2025-02-20,2025-02-20,FRO-TOM-002,Tommatfrön Biff,Frön,Tidig vår,1,55.0,5,Zon 2,KUND-11695,Krukorna låg i bitar i lådan.,2025-03-11,1
+GG-2025-00093,GG-2025-00093-2,2025-02-16,2025-02-20,2025-02-20,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,3,149.0,25000,Zon 2,KUND-11695,,,
+GG-2025-00093,GG-2025-00093-3,2025-02-16,2025-02-20,2025-02-20,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 2,KUND-11695,Halva fröerna var redan mögliga i påsen.,2025-03-03,1
+GG-2025-00093,GG-2025-00093-4,2025-02-16,2025-02-20,2025-02-20,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,,1,79.0,600,Zon 2,KUND-11695,,,
+GG-2025-00093,GG-2025-00093-5,16.02.2025,2025-02-20,2025-02-20,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 2,KUND-11695,,,
+GG-2025-00094,GG-2025-00094-1,2025-02-01,2025-02-06,2025-02-06,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 3,KUND-14302,Tomatplantorna frös under transporten.,2025-02-14,2
+GG-2025-00094,GG-2025-00094-2,2025-02-01,2025-02-06,2025-02-06,FRO-TOM-002,Tomat-Biff frön,Frön,Tidig vår,"""3""",55.0,5,Zon 3,KUND-14302,"Varken bra eller dåligt, gör jobbet.",2025-02-09,3
+GG-2025-00094,GG-2025-00094-3,2025-02-01,2025-02-06,2025-02-06,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,2,79.0,600,Zon 3,KUND-14302,"Tomaterna växer som aldrig förr, tack!",2025-03-02,4
+GG-2025-00095,GG-2025-00095-1,2025-02-02,,2025-02-05,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,-1500,Zon 1,KUND-10498,"Tomaterna växer som aldrig förr, tack!",2025-02-27,5
+GG-2025-00096,GG-2025-00096-1,2025-02-25,2025-03-02,2025-03-02,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 4,KUND-11833,,,
+GG-2025-00096,GG-2025-00096-2,2025-02-25,2025-03-02,2025-03-02,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500 g,Zon 4,KUND-11833,,,
+GG-2025-00096,GG-2025-00096-3,2025-02-25,2025-03-02,2025-03-02,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 4,KUND-11833,,,
+GG-2025-00097,GG-2025-00097-1,2025-02-04,2025-02-14,2025-02-14,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,4,129.0,1500,Zon 5,KUND-11787,"Fröerna grodde på under en vecka, fantastiskt!",2025-02-22,4
+GG-2025-00098,GG-2025-00098-1,2025-02-27,2025-03-03,Mar 03 2025,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 3,KUND-11783,,,
+GG-2025-00098,GG-2025-00098-2,27.02.2025,,2025-03-03,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 3,KUND-11783,,,
+GG-2025-00098,GG-2025-00098-3,2025-02-27,2025-03-03,2025-03-03,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 3,KUND-11783,,,
+GG-2025-00099,GG-2025-00099-1,2025-02-07,2025-02-16,2025-02-21,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 5,KUND-13381,,,
+GG-2025-00100,GG-2025-00100-1,2025-02-06,2025-02-10,10.02.2025,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 2,KUND-13554,,,
+GG-2025-00100,GG-2025-00100-2,2025-02-06,2025-02-10,2025-02-10,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,Zon 2,KUND-13554,,,
+GG-2025-00100,GG-2025-00100-3,2025-02-06,2025-02-10,2025-02-10,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,4,89.0,12500,Zon 2,KUND-13554,Paketet såg ut att ha kastats från lastbilen.,2025-03-04,2
+GG-2025-00100,GG-2025-00100-4,2025-02-06,2025-02-10,2025-02-10,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,2,179.0,600,Zon 2,KUND-13554,,,
+GG-2025-00101,GG-2025-00101-1,2025-02-08,2025-02-11,2025-02-11,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 1,KUND-14657,"Skadad leverans, hälften obrukbart.",2025-03-08,1
+GG-2025-00101,GG-2025-00101-2,08/02/2025,2025-02-11,2025-02-11,FRO-TOM-001,Tomatffrön Tiny Tim,Frön,Tidig vår,1,49.0,5,Zon 1,KUND-14657,,,
+GG-2025-00102,GG-2025-00102-1,2025-02-12,2025-02-14,2025-02-14,JOR-PLA-002,Planteringsjord 25L,Jord & näring,,3,89.0,12500,Zon 1,KUND-13191,,,
+GG-2025-00102,GG-2025-00102-2,2025-02-12,2025-02-14,2025-02-14,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,1,129.0,500,Zon 1,KUND-13191,Bästa fröerna jag testat. Hög grobarhet.,2025-02-24,5
+GG-2025-00103,GG-2025-00103-1,2025-02-28,2025-03-03,03.03.2025,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25000,,KUND-13317,,,
+GG-2025-00103,GG-2025-00103-2,2025-02-28,2025-03-03,2025-03-03,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-13317,,,
+GG-2025-00104,GG-2025-00104-1,2025-02-27,2025-03-02,2025-03-02,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 1,KUND-12449,,,
+GG-2025-00104,GG-2025-00104-2,2025-02-27,2025-03-02,2025-03-02,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 1,KUND-12449,,,
+GG-2025-00105,GG-2025-00105-1,2025-02-21,2025-02-28,2025-03-04,PLT-INO-003,Gullranka ampel,Inomhusväxter,Alla,3,129.0,500,Zon 4,KUND-13896,Överraskad över hur snabbt leveransen kom!,2025-03-16,5
+GG-2025-00105,GG-2025-00105-2,2025-02-21,2025-02-28,2025-03-04,PLT-INO-001,Monstera deliciosa,Inomhusväxter,Alla,1,299.0,2000,Zon 4,KUND-13896,,,
+GG-2025-00105,GG-2025-00105-3,2025-02-21,2025-02-28,2025-03-04,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,"""2""",129.0,-1500,Norrlandskusten,KUND-13896,,,
+GG-2025-00105,GG-2025-00105-4,2025-02-21,2025-02-28,2025-03-04,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 4,KUND-13896,,,
+GG-2025-00105,GG-2025-00105-5,2025-02-21,2025-02-28,2025-03-04,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 4,KUND-13896,"Fick fel sort, ville ha röd pelargon, fick vit.",2025-03-29,2
+GG-2025-00106,GG-2025-00106-1,2025-03-15,2025-03-18,Mar 18 2025,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 1,KUND-13642,"Vackra plantor, välpackade och friska vid leverans.",2025-03-31,4
+GG-2025-00107,GG-2025-00107-1,2025-03-01,2025-03-03,2025-03-03,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Vår,3,89.0,350,Zon 1,KUND-12449,,,
+GG-2025-00107,GG-2025-00107-2,2025-03-01,2025-03-03,2025-03-03,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,3,199.0,800,Zon 1,KUND-12449,"Varken bra eller dåligt, gör jobbet.",2025-03-24,3
+GG-2025-00107,GG-2025-00107-3,2025-03-01,2025-03-03,2025-03-03,PLT-BLO-002,Petunia mix,Färdiga plantor,vår,1,59.0,250,Zon 1,KUND-12449,,,
+GG-2025-00108,GG-2025-00108-1,2025-03-09,2025-03-13,2025-03-13,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 2,KUND-10886,,,
+GG-2025-00108,GG-2025-00108-2,2025-03-09,2025-03-13,2025-03-13,FRO-BLO-001,Sommarblommor mix,Frön,Vår,2,69.0,20,,KUND-10886,Snabb leverans och bra kvalitet på jorden.,2025-03-28,5
+GG-2025-00108,GG-2025-00108-3,09.03.2025,2025-03-13,2025-03-13,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 2,KUND-10886,,,
+GG-2025-00108,GG-2025-00108-4,2025-03-09,2025-03-13,2025-03-13,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-10886,"Grym kvalitet på spaden, känns robust.",2025-03-27,4
+GG-2025-00109,GG-2025-00109-1,2025-03-28,2025-03-31,2025-03-31,FRO-BLO-001,Sommarblommor mix,Frön,Vår,1,69.0,20,Zon 1,KUND-11284,"Aldrig mer, fruktansvärt dålig kvalitet.",2025-04-07,2
+GG-2025-00110,GG-2025-00110-1,2025-03-20,2025-03-26,2025-03-26,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 4,KUND-11552,,,
+GG-2025-00110,GG-2025-00110-2,2025-03-20,2025-03-26,2025-03-26,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,1,59.0,250,Zon 4,KUND-11552,Ok kvalitet men lite dyrt tycker jag.,2025-03-31,3
+GG-2025-00111,GG-2025-00111-1,2025-03-16,2025-03-19,19.03.2025,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-11428,,,
+GG-2025-00111,GG-2025-00111-2,2025-03-16,2025-03-19,2025-03-19,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-11428,,,
+GG-2025-00111,GG-2025-00111-3,2025-03-16,19/03/2025,2025-03-19,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-11428,Jättebra service och produkter av hög kvalitet.,2025-03-26,5
+GG-2025-00112,GG-2025-00112-1,2025-03-21,2025-03-23,2025-03-23,JOR-PLA-002,Planteringsjord 25L,Jord & näring,VÅR,1,89.0,12500,Zon 1,KUND-13642,,,
+GG-2025-00112,GG-2025-00112-2,2025-03-21,2025-03-23,2025-03-23,VER-SKY-001,Trädgårdspade,Verktyg & tillbehör,Alla,2,199.0,800,Zon 1,KUND-13642,"Fröerna hade utgånget datum, grodde inte alls.",2025-04-03,2
+GG-2025-00113,GG-2025-00113-1,2025-03-19,2025-03-22,2025-03-29,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,Zon 2,KUND-14754,Mycket dålig kommunikation om förseningen.,2025-04-12,2
+GG-2025-00113,GG-2025-00113-2,2025-03-19,2025-03-22,2025-03-29,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-14754,,,
+GG-2025-00114,GG-2025-00114-1,2025-03-04,2025-03-07,2025-03-07,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 1,KUND-14677,"Gullrankan är så vacker, perfekt hängväxt.",2025-03-29,4
+GG-2025-00114,GG-2025-00114-2,2025-03-04,2025-03-07,2025-03-07,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,2,49.0,150,Zon 1,KUND-14677,,,
+GG-2025-00115,GG-2025-00115-1,2025-03-20,2025-03-26,2025-03-26,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,SEK 55,5,Zon 4,KUND-14079,,,
+GG-2025-00115,GG-2025-00115-2,2025-03-20,2025-03-26,2025-03-26,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,3,59.0,250,Zon 4,KUND-14079,,,
+GG-2025-00116,GG-2025-00116-1,2025-03-09,2025-03-13,2025-03-18,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 2,KUND-13053,"Så fina krukor, precis som på bilden.",2025-04-15,4
+GG-2025-00117,GG-2025-00117-1,2025-03-19,2025-03-24,2025-03-24,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 3,KUND-13764,Överraskad över hur snabbt leveransen kom!,2025-04-22,5
+GG-2025-00118,GG-2025-00118-1,2025-03-14,2025-03-18,2025-03-18,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 2,KUND-10431,,,
+GG-2025-00118,GG-2025-00118-2,2025-03-14,2025-03-18,2025-03-18,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 2,KUND-10431,,,
+GG-2025-00119,GG-2025-00119-1,2025-03-21,2025-03-25,2025-03-25,PLT-BLO-001,Pelargon röd,Färdiga plantor,Vår,1,69.0,-400,,KUND-12955,,,
+GG-2025-00119,GG-2025-00119-2,21/03/2025,2025-03-25,2025-03-25,VER-SKY-001,Trädgårdspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 2,KUND-12955,"Tomaterna växer som aldrig förr, tack!",2025-03-31,5
+GG-2025-00120,GG-2025-00120-1,2025-03-05,2025-03-10,2025-03-10,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,3,45.0,10,Zon 4,KUND-11833,,,
+GG-2025-00120,GG-2025-00120-2,2025-03-05,2025-03-10,2025-03-10,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zon 4,KUND-11833,,,
+GG-2025-00120,GG-2025-00120-3,2025-03-05,2025-03-10,2025-03-10,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,Zon 4,KUND-11833,,,
+GG-2025-00121,GG-2025-00121-1,2025-03-01,2025-03-04,2025-03-04,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,Zon 1,KUND-10830,,,
+GG-2025-00121,GG-2025-00121-2,2025-03-01,2025-03-04,2025-03-04,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 1,KUND-10830,"Förpackningen var krossad, krukan i bitar.",2025-03-09,1
+GG-2025-00122,GG-2025-00122-1,2025-03-25,2025-03-30,2025-03-30,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,4,149.0,25000,Zon 3,KUND-13412,Alla frön grodde! Ser fram emot skörden.,2025-04-09,4
+GG-2025-00123,GG-2025-00123-1,2025-03-08,2025-03-10,2025-03-10,PLT-ORT-002,PERSILJA I KRUKA,Färdiga plantor,Vår,4,45.0,200,Zon 1,KUND-14401,,,
+GG-2025-00124,GG-2025-00124-1,2025-03-07,2025-03-12,2025-03-12,FRO-TOM-001,Tommat Tiny Tim,Frön,Tidig vår,2,49.0,5,Zon 4,KUND-14646,,,
+GG-2025-00124,GG-2025-00124-2,2025-03-07,2025-03-12,2025-03-12,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,Zon 4,KUND-14646,,,
+GG-2025-00124,GG-2025-00124-3,07.03.2025,2025-03-12,2025-03-12,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,1,45.0,10,Zon 4,KUND-14646,Mycket dålig kommunikation om förseningen.,2025-04-01,2
+GG-2025-00125,GG-2025-00125-1,2025-03-23,2025-03-27,2025-03-27,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,Zon 2,KUND-11029,,,
+GG-2025-00125,GG-2025-00125-2,2025-03-23,2025-03-27,Mar 27 2025,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 2,KUND-11029,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-03-31,5
+GG-2025-00126,GG-2025-00126-1,2025-03-23,2025-03-28,2025-03-28,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,2,45.0,200,Zon 3,KUND-14677,,,
+GG-2025-00126,GG-2025-00126-2,2025-03-23,2025-03-28,2025-03-28,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Vår,1,89.0,350,Zon 3,KUND-14677,,,
+GG-2025-00126,GG-2025-00126-3,2025-03-23,2025-03-28,2025-03-28,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,,KUND-14677,,,
+GG-2025-00126,GG-2025-00126-4,2025-03-23,,2025-03-28,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,4,59.0,250,Zon 3,KUND-14677,"Min monstera är fantastisk, så stor och fin!",2025-04-21,5
+GG-2025-00126,GG-2025-00126-5,2025-03-23,2025-03-28,2025-03-28,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 3,KUND-14677,,,
+GG-2025-00127,GG-2025-00127-1,2025-03-03,2025-03-09,2025-03-09,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 4,KUND-12411,"Mycket nöjd, allt kom fram i bra skick.",2025-03-16,5
+GG-2025-00127,GG-2025-00127-2,Mar 03 2025,2025-03-09,2025-03-09,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Early Spring,3,49.0,5,Zon 4,KUND-12411,,,
+GG-2025-00127,GG-2025-00127-3,2025-03-03,2025-03-09,2025-03-09,FRO-BLO-001,Sommarblommor mix,Frön,Vår,4,69.0,20,Zon 4,KUND-12411,"Fröerna grodde på under en vecka, fantastiskt!",2025-04-08,5
+GG-2025-00128,GG-2025-00128-1,2025-03-08,2025-03-12,2025-03-12,PLT-BLO-002,Petunia-mix,Färdiga plantor,Vår,2,59.0,250,Zon 2,KUND-11783,Överraskad över hur snabbt leveransen kom!,2025-03-24,4
+GG-2025-00128,GG-2025-00128-2,2025-03-08,2025-03-12,2025-03-12,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zon 2,KUND-11783,,,
+GG-2025-00128,GG-2025-00128-3,2025-03-08,2025-03-12,2025-03-12,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Zon 2,KUND-11783,,,
+GG-2025-00129,GG-2025-00129-1,2025-03-06,2025-03-10,2025-03-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 2,KUND-11482,Kommer definitivt beställa igen nästa säsong.,2025-03-14,4
+GG-2025-00129,GG-2025-00129-2,06.03.2025,2025-03-10,2025-03-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 2,KUND-11482,"Leveransen tog 2 veckor, allt var vissnat.",2025-03-24,1
+GG-2025-00129,GG-2025-00129-3,2025-03-06,2025-03-10,2025-03-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,3,59.0,15,Zon 2,KUND-11482,,,
+GG-2025-00129,GG-2025-00129-4,2025-03-06,2025-03-10,2025-03-10,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,2,45.0,200,Zon 2,KUND-11482,Skadad kruka och ingen kompensation erbjöds.,2025-03-26,1
+GG-2025-00129,GG-2025-00129-5,2025-03-06,10.03.2025,2025-03-10,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 2,KUND-11482,,,
+GG-2025-00130,GG-2025-00130-1,2025-03-10,2025-03-14,2025-03-14,PLT-BLO-001,Röd Pelargonner,Färdiga plantor,Vår,3,69.0,400,Zon 2,KUND-13642,Tomatplantorna frös under transporten.,2025-04-09,1
+GG-2025-00131,GG-2025-00131-1,2025-03-20,2025-03-24,2025-03-24,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zon 3,KUND-10623,"Tomaterna växer som aldrig förr, tack!",2025-04-02,5
+GG-2025-00131,GG-2025-00131-2,2025-03-20,2025-03-24,2025-03-24,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,2,45.0,10,Zon 3,KUND-10623,"Medelmåttigt, förpackningen var lite skadad.",2025-04-12,3
+GG-2025-00131,GG-2025-00131-3,2025-03-20,2025-03-24,2025-03-24,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,5,49.0,150,Zon 3,KUND-10623,Ok kvalitet men lite dyrt tycker jag.,2025-04-23,3
+GG-2025-00131,GG-2025-00131-4,Mar 20 2025,2025-03-24,2025-03-24,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600 g,Zon 3,KUND-10623,,,
+GG-2025-00132,GG-2025-00132-1,2025-03-04,2025-03-09,2025-03-09,PLT-BLO-001,Pelargon röd,Färdiga plantor,Vår,2,69.0,400,Zon 3,KUND-13439,,,
+GG-2025-00133,GG-2025-00133-1,2025-03-08,2025-03-13,2025-03-19,FRO-TOM-002,Tommatfrön Biff,Frön,Tidig vår,2,55.0,5,Zon 3,KUND-13642,Halva fröerna var redan mögliga i påsen.,2025-04-01,1
+GG-2025-00134,GG-2025-00134-1,2025-03-17,2025-03-26,2025-03-31,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 5,KUND-10335,,,
+GG-2025-00135,GG-2025-00135-1,2025-03-09,2025-03-14,2025-03-14,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 3,KUND-13118,,,
+GG-2025-00136,GG-2025-00136-1,2025-03-04,2025-03-09,2025-03-09,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 4,KUND-10164,,,
+GG-2025-00136,GG-2025-00136-2,2025-03-04,2025-03-09,2025-03-09,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,4,89.0,12500,Zon 4,KUND-10164,"Fröerna hade utgånget datum, grodde inte alls.",2025-03-27,2
+GG-2025-00137,GG-2025-00137-1,2025-03-07,2025-03-09,2025-03-11,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Vår,1,89.0,350,Zon 1,KUND-12675,Jättebra service och produkter av hög kvalitet.,2025-03-23,4
+GG-2025-00137,GG-2025-00137-2,2025-03-07,2025-03-09,2025-03-11,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-12675,,,
+GG-2025-00138,GG-2025-00138-1,2025-03-28,2025-04-01,01/04/2025,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 3,KUND-11482,,,
+GG-2025-00138,GG-2025-00138-2,2025-03-28,2025-04-01,2025-04-01,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,4,55.0,5,Zon 3,KUND-11482,,,
+GG-2025-00139,GG-2025-00139-1,2025-03-28,,2025-04-03,PLT-ORT-001,Basilikaplanta,Färdiga plantor,vår,2,49.0,150,Zon 4,KUND-10638,"Varken bra eller dåligt, gör jobbet.",2025-05-02,3
+GG-2025-00140,GG-2025-00140-1,2025-03-23,2025-03-25,2025-03-20,PLT-BLO-002,Pettunia mix,Färdiga plantor,Vår,1,59.0,250,Zon 1,KUND-11833,,,
+GG-2025-00141,GG-2025-00141-1,2025-03-09,,2025-03-11,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 1,KUND-13155,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-04-05,5
+GG-2025-00142,GG-2025-00142-1,2025-03-03,2025-03-08,2025-03-11,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Q2,2,89.0,350,Zon 4,KUND-14191,,,
+GG-2025-00142,GG-2025-00142-2,2025-03-03,2025-03-08,2025-03-11,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,SEK 59,15,Zon 4,KUND-14191,,,
+GG-2025-00143,GG-2025-00143-1,2025-03-07,,2025-03-13,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,1,45.0,10,Zon 4,KUND-11362,,,
+GG-2025-00144,GG-2025-00144-1,2025-03-02,2025-03-06,2025-03-06,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 2,KUND-14646,"Så fina krukor, precis som på bilden.",2025-03-22,5
+GG-2025-00145,GG-2025-00145-1,2025-03-02,2025-03-11,2025-03-11,PLT-BLO-001,Pelargoner röd,Färdiga plantor,Vår,1,69.0,400,Zon 5,KUND-14944,Paketet såg ut att ha kastats från lastbilen.,2025-04-04,2
+GG-2025-00145,GG-2025-00145-2,2025-03-02,2025-03-11,2025-02-27,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,3,129.0,1500,Zon 5,KUND-14944,Alla frön grodde! Ser fram emot skörden.,2025-03-26,5
+GG-2025-00145,GG-2025-00145-3,2025-03-02,2025-03-11,2025-03-11,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 5,KUND-14944,,,
+GG-2025-00146,GG-2025-00146-1,2025-03-06,,2025-03-17,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,"""1""",129.0,1500,Zon 2,KUND-13755,,,
+GG-2025-00146,GG-2025-00146-2,2025-03-06,2025-03-10,2025-03-17,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 2,KUND-13755,Löken var möglig. Kunde inte plantera.,2025-04-02,1
+GG-2025-00146,GG-2025-00146-3,2025-03-06,2025-03-10,2025-03-17,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,1,199.0,800,,KUND-13755,,,
+GG-2025-00146,GG-2025-00146-4,2025-03-06,2025-03-10,2025-03-17,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,3,59.0,250,Zon 2,KUND-13755,,,
+GG-2025-00147,GG-2025-00147-1,2025-03-14,2025-03-16,2025-03-16,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,1,49.0,150,Zon 1,KUND-11419,,,
+GG-2025-00147,GG-2025-00147-2,2025-03-14,,2025-03-16,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,3,39.0,8,Zon 1,KUND-11419,,,
+GG-2025-00148,GG-2025-00148-1,2025-03-11,2025-03-19,2025-03-19,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zon 5,KUND-14889,Ok kvalitet men lite dyrt tycker jag.,2025-04-06,3
+GG-2025-00149,GG-2025-00149-1,2025-03-15,2025-03-18,2025-03-18,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,3,149.0,400,Zon 2,KUND-12490,,,
+GG-2025-00149,GG-2025-00149-2,2025-03-15,2025-03-18,2025-03-18,JOR-PLA-002,Planteringsjord 25L,Jord & näring,VÅR,3,89.0,12500,Zon 2,KUND-12490,,,
+GG-2025-00150,GG-2025-00150-1,2025-03-14,,2025-03-20,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 2,KUND-10926,"Allt var trasigt, kartong totalförstörd.",2025-03-30,2
+GG-2025-00150,GG-2025-00150-2,2025-03-14,2025-03-18,2025-03-20,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 2,KUND-10926,,,
+GG-2025-00151,GG-2025-00151-1,2025-03-06,2025-03-08,2025-03-08,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,1,45.0,10,Zon 1,KUND-12144,,,
+GG-2025-00152,GG-2025-00152-1,2025-03-10,,2025-03-14,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,5,49.0,150,Zon 3,KUND-10498,"Vackra plantor, välpackade och friska vid leverans.",2025-03-28,4
+GG-2025-00152,GG-2025-00152-2,2025-03-10,2025-03-14,2025-03-14,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,2,45.0,200,Zon 3,KUND-10498,,,
+GG-2025-00153,GG-2025-00153-1,2025-03-23,2025-03-25,2025-03-25,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 1,KUND-14248,Mycket dålig kommunikation om förseningen.,2025-04-24,2
+GG-2025-00153,GG-2025-00153-2,23/03/2025,2025-03-25,2025-03-25,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 1,KUND-14248,,,
+GG-2025-00153,GG-2025-00153-3,2025-03-23,,2025-03-25,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 1,KUND-14248,,,
+GG-2025-00154,GG-2025-00154-1,2025-03-24,2025-03-27,2025-03-27,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,1,45.0,10,Zon 1,KUND-11242,Inget grodde trots att jag följde instruktionerna.,2025-04-16,1
+GG-2025-00155,GG-2025-00155-1,2025-03-06,2025-03-08,2025-03-08,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,,4,SEK 45,10,Zon 1,KUND-10165,"Jorden luktar fräscht och bra, plantorna älskar den.",2025-03-14,5
+GG-2025-00156,GG-2025-00156-1,2025-03-07,2025-03-10,2025-03-13,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,,KUND-11117,"Allt var trasigt, kartong totalförstörd.",2025-04-08,2
+GG-2025-00156,GG-2025-00156-2,2025-03-07,2025-03-10,2025-03-13,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 1,KUND-11117,,,
+GG-2025-00157,GG-2025-00157-1,2025-03-02,2025-03-05,2025-03-05,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 1,KUND-11362,,,
+GG-2025-00158,GG-2025-00158-1,2025-03-22,2025-03-24,2025-03-24,FRO-BLO-001,Sommarblommor mix,Frön,Vår,2,69.0,20,Zon 1,KUND-13406,"Det gick an, inte mer inte mindre.",2025-04-17,3
+GG-2025-00158,GG-2025-00158-2,22.03.2025,2025-03-24,2025-03-24,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 1,KUND-13406,Leveransen tog lite längre än väntat men okej.,2025-04-04,3
+GG-2025-00159,GG-2025-00159-1,2025-03-23,2025-03-26,2025-03-30,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,,1,79.0,300,Zon 2,KUND-10926,"Kom fram för sent, kunde lika gärna kastat det.",2025-04-11,1
+GG-2025-00159,GG-2025-00159-2,2025-03-23,2025-03-26,2025-03-30,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 2,KUND-10926,,,
+GG-2025-00159,GG-2025-00159-3,2025-03-23,2025-03-26,2025-03-30,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 2,KUND-10926,,,
+GG-2025-00160,GG-2025-00160-1,2025-03-21,2025-03-26,2025-03-26,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,,KUND-13580,,,
+GG-2025-00160,GG-2025-00160-2,2025-03-21,2025-03-26,2025-03-26,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,1,55.0,5,Norrlandskusten,KUND-13580,Ok kvalitet men lite dyrt tycker jag.,2025-04-17,3
+GG-2025-00161,GG-2025-00161-1,2025-03-20,,2025-04-05,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Norrlands inland,KUND-14168,,,
+GG-2025-00161,GG-2025-00161-2,2025-03-20,2025-03-29,2025-04-05,PLT-BLO-001,Pelargon röd,Färdiga plantor,Vår,5,69.0,400,Zon 5,KUND-14168,,,
+GG-2025-00162,GG-2025-00162-1,2025-03-04,,2025-03-11,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25000,Zon 5,KUND-11552,Perfekt för balkongen. Pelargonerna blommar redan.,2025-04-05,4
+GG-2025-00162,GG-2025-00162-2,2025-03-04,2025-03-11,2025-03-11,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,5,45.0,200,Zon 5,KUND-11552,Trasig förpackning och vissna plantor.,2025-03-25,2
+GG-2025-00162,GG-2025-00162-3,2025-03-04,2025-03-11,2025-03-11,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 5,KUND-11552,,,
+GG-2025-00162,GG-2025-00162-4,2025-03-04,2025-03-11,2025-03-11,FRO-ORT-001,Örtfrön mix,Frön,Vår,1,59.0,15,Zon 5,KUND-11552,Kommer definitivt beställa igen nästa säsong.,2025-03-20,5
+GG-2025-00162,GG-2025-00162-5,2025-03-04,2025-03-11,2025-03-11,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,4,149.0,400,Zon 5,KUND-11552,"Skadad leverans, hälften obrukbart.",2025-03-20,2
+GG-2025-00163,GG-2025-00163-1,2025-03-20,2025-03-24,2025-03-24,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,,KUND-14858,,,
+GG-2025-00163,GG-2025-00163-2,2025-03-20,2025-03-24,2025-03-24,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,3,45.0,200,Zon 2,KUND-14858,Jättebra service och produkter av hög kvalitet.,2025-04-23,4
+GG-2025-00163,GG-2025-00163-3,2025-03-20,2025-03-24,2025-03-24,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 2,KUND-14858,,,
+GG-2025-00163,GG-2025-00163-4,2025-03-20,2025-03-24,2025-03-24,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 2,KUND-14858,Ok kvalitet men lite dyrt tycker jag.,2025-04-10,3
+GG-2025-00163,GG-2025-00163-5,2025-03-20,2025-03-24,2025-03-24,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 2,KUND-14858,,,
+GG-2025-00164,GG-2025-00164-1,2025-03-24,2025-03-27,2025-03-27,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,2,39.0,8,Zone 1,KUND-12377,,,
+GG-2025-00165,GG-2025-00165-1,2025-03-15,2025-03-19,2025-03-19,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,1,59.0,-250,Zon 2,KUND-11178,,,
+GG-2025-00165,GG-2025-00165-2,2025-03-15,2025-03-19,2025-03-19,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,5,129.0,1500,Zon 2,KUND-11178,"Min monstera är fantastisk, så stor och fin!",2025-03-30,4
+GG-2025-00166,GG-2025-00166-1,2025-03-25,2025-03-28,2025-03-28,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 2,KUND-14631,,,
+GG-2025-00166,GG-2025-00166-2,2025-03-25,2025-03-28,2025-03-28,FRO-BLO-001,Sommarblommor mix,Frön,Vår,1,69.0,20,Zon 2,KUND-14631,,,
+GG-2025-00166,GG-2025-00166-3,2025-03-25,2025-03-28,28/03/2025,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,Zon 2,KUND-14631,,,
+GG-2025-00167,GG-2025-00167-1,2025-03-21,2025-03-25,2025-03-25,VER-SKY-001,Trädgårdspade,Verktyg & tillbehör,Alla,4,199.0,800,Zon 3,KUND-10391,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-03-30,5
+GG-2025-00167,GG-2025-00167-2,2025-03-21,2025-03-25,2025-03-25,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 3,KUND-10391,,,
+GG-2025-00167,GG-2025-00167-3,2025-03-21,25.03.2025,2025-03-25,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 3,KUND-10391,"Älskar min nya fredskalla, den trivs jättebra.",2025-04-02,5
+GG-2025-00167,GG-2025-00167-4,2025-03-21,2025-03-25,2025-03-25,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 3,KUND-10391,,,
+GG-2025-00168,GG-2025-00168-1,2025-03-03,2025-03-09,09.03.2025,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 4,KUND-12086,Bästa fröerna jag testat. Hög grobarhet.,2025-03-19,5
+GG-2025-00169,GG-2025-00169-1,2025-03-20,2025-03-29,2025-03-31,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,4,45.0,200,Zon 5,KUND-11854,,,
+GG-2025-00169,GG-2025-00169-2,2025-03-20,2025-03-29,2025-03-31,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 5,KUND-11854,Långsam leverans förstörde plantorna.,2025-04-24,2
+GG-2025-00170,GG-2025-00170-1,2025-03-15,2025-03-21,2025-03-21,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 4,KUND-11521,,,
+GG-2025-00170,GG-2025-00170-2,2025-03-15,2025-03-21,21.03.2025,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 4,KUND-11521,"Gullrankan är så vacker, perfekt hängväxt.",2025-03-27,4
+GG-2025-00170,GG-2025-00170-3,2025-03-15,2025-03-21,2025-03-21,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 4,KUND-11521,"Fungerar, men hade förväntat mig större plantor.",2025-04-18,3
+GG-2025-00170,GG-2025-00170-4,2025-03-15,2025-03-21,2025-03-21,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 4,KUND-11521,Alla frön grodde! Ser fram emot skörden.,2025-04-17,5
+GG-2025-00171,GG-2025-00171-1,2025-03-12,2025-03-19,2025-03-19,FRO-SAL-001,Sallatsfrön mix,Frön,Vår,1,39.0,8,Zon 4,KUND-12022,"Medelmåttigt, förpackningen var lite skadad.",2025-03-28,3
+GG-2025-00172,GG-2025-00172-1,2025-03-28,2025-04-01,2025-04-01,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,2,49.0,5,Zon 2,KUND-14889,"Produkten var ok, servicen kunde varit bättre.",2025-04-24,3
+GG-2025-00173,GG-2025-00173-1,2025-03-18,2025-03-21,2025-03-21,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Vår,1,89.0,350,Zon 2,KUND-12831,"Fröerna grodde på under en vecka, fantastiskt!",2025-03-30,4
+GG-2025-00173,GG-2025-00173-2,2025-03-18,2025-03-21,2025-03-21,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 2,KUND-12831,,,
+GG-2025-00173,GG-2025-00173-3,2025-03-18,2025-03-21,2025-03-21,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,,1,149.0,400,Zon 2,KUND-12831,,,
+GG-2025-00174,GG-2025-00174-1,2025-03-15,2025-03-20,2025-03-20,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,0,400,Zon 4,KUND-12225,,,
+GG-2025-00174,GG-2025-00174-2,2025-03-15,2025-03-20,2025-03-20,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Norrlandskusten,KUND-12225,,,
+GG-2025-00174,GG-2025-00174-3,2025-03-15,,2025-03-20,PLT-BLO-002,Petunia mix,Färdiga plantor,,1,59.0,250,Zon 4,KUND-12225,,,
+GG-2025-00174,GG-2025-00174-4,2025-03-15,,2025-03-20,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 4,KUND-12225,Snabb leverans och bra kvalitet på jorden.,2025-04-05,4
+GG-2025-00175,GG-2025-00175-1,2025-03-01,Mar 05 2025,2025-03-05,JOR-PLA-001,planteringsjord 50l,Jord & näring,Vår,4,149.0,25000,,KUND-11854,"Älskar min nya fredskalla, den trivs jättebra.",2025-03-20,4
+GG-2025-00175,GG-2025-00175-2,2025-03-01,2025-03-05,2025-03-05,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 3,KUND-11854,"Beställde vårblommor, de kom i juni - för sent.",2025-03-10,2
+GG-2025-00175,GG-2025-00175-3,2025-03-01,2025-03-05,2025-03-05,FRO-ORT-001,Örter mix,Frön,Vår,1,59.0,15,Zon 3,KUND-11854,Bästa fröerna jag testat. Hög grobarhet.,2025-03-31,5
+GG-2025-00176,GG-2025-00176-1,2025-03-21,,2025-03-24,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 1,KUND-12086,,,
+GG-2025-00177,GG-2025-00177-1,2025-03-15,2025-03-22,2025-03-22,FRO-BLO-001,Sommarblommor mix,Frön,Vår,en,69.0,20,Zon 4,KUND-14879,,,
+GG-2025-00177,GG-2025-00177-2,2025-03-15,2025-03-22,2025-03-22,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 4,KUND-14879,,,
+GG-2025-00178,GG-2025-00178-1,2025-03-04,2025-03-09,2025-03-09,FRO-BLO-001,Sommarblommor mix,Frön,,1,69.0,20,Zon 3,KUND-11549,,,
+GG-2025-00178,GG-2025-00178-2,2025-03-04,2025-03-09,2025-03-09,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 3,KUND-11549,,,
+GG-2025-00179,GG-2025-00179-1,2025-03-09,2025-03-12,2025-03-12,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,3,49.0,5,Zon 1,KUND-12649,,,
+GG-2025-00180,GG-2025-00180-1,2025-03-13,2025-03-15,2025-03-15,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 1,KUND-13159,,,
+GG-2025-00180,GG-2025-00180-2,2025-03-13,2025-03-15,2025-03-15,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,"""1""",59.0,15,Zon 1,KUND-13159,,,
+GG-2025-00181,GG-2025-00181-1,2025-03-21,2025-03-25,2025-03-25,JOR-PLA-002,Planteringsjord 25L,Jord & näring,,1,89.0,12500,Zon 2,KUND-13118,Kommer definitivt beställa igen nästa säsong.,2025-04-05,5
+GG-2025-00181,GG-2025-00181-2,2025-03-21,2025-03-25,2025-03-25,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25.0kg,Zon 2,KUND-13118,"Produkten var ok, servicen kunde varit bättre.",2025-04-10,3
+GG-2025-00181,GG-2025-00181-3,2025-03-21,2025-03-25,2025-03-25,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,4 st,89.0,12500,Zon 2,KUND-13118,,,
+GG-2025-00182,GG-2025-00182-1,2025-03-22,2025-03-25,2025-03-25,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,1,49.0,150,,KUND-13922,,,
+GG-2025-00182,GG-2025-00182-2,2025-03-22,2025-03-25,2025-03-25,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,ALLA,1,129.0,1500,Zon 2,KUND-13922,,,
+GG-2025-00183,GG-2025-00183-1,2025-03-16,2025-03-20,2025-03-20,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,1,179.0,600,Zon 3,KUND-10335,Ok kvalitet men lite dyrt tycker jag.,2025-04-19,3
+GG-2025-00183,GG-2025-00183-2,2025-03-16,2025-03-20,2025-03-20,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,2,89.0,12500,Zon 3,KUND-10335,,,
+GG-2025-00184,GG-2025-00184-1,2025-03-10,2025-03-15,2025-03-22,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,vår,1,79.0,300,Zon 3,KUND-13118,,,
+GG-2025-00184,GG-2025-00184-2,2025-03-10,2025-03-15,2025-03-22,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,5,59 kr,15,Zon 3,KUND-13118,"Besvikelse, basilikan dog inom en vecka.",2025-04-16,1
+GG-2025-00184,GG-2025-00184-3,2025-03-10,2025-03-15,2025-03-22,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 3,KUND-13118,,,
+GG-2025-00184,GG-2025-00184-4,2025-03-10,2025-03-15,2025-03-22,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,2,129.0,1500,Zon 3,KUND-13118,"Grym kvalitet på spaden, känns robust.",2025-03-30,5
+GG-2025-00185,GG-2025-00185-1,2025-03-03,2025-03-06,2025-03-06,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,59.0,15,Zon 2,KUND-11783,,,
+GG-2025-00186,GG-2025-00186-1,2025-03-20,2025-03-26,2025-03-26,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,2,79.0,300,Zon 4,KUND-11421,"Produkten var ok, servicen kunde varit bättre.",2025-04-15,3
+GG-2025-00187,GG-2025-00187-1,2025-03-19,2025-03-21,2025-03-15,KRU-TER-002,Terrakottakruka 15cm,Krukor & kärl,Alla,4,79.0,600,Zon 1,KUND-13469,,,
+GG-2025-00188,GG-2025-00188-1,2025-03-03,2025-03-05,2025-03-12,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,4,149.0,25000,Zon 1,KUND-10583,,,
+GG-2025-00189,GG-2025-00189-1,2025-03-21,2025-03-25,2025-03-25,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,2,149.0,25000,Zon 3,KUND-12970,"Fungerar, men hade förväntat mig större plantor.",2025-03-29,3
+GG-2025-00190,GG-2025-00190-1,2025-03-07,,2025-03-09,PLT-BLO-001,Pelargon röd,Färdiga plantor,Vår,2,69.0,400,,KUND-14879,,,
+GG-2025-00190,GG-2025-00190-2,2025-03-07,2025-03-09,2025-03-09,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1 st,89.0,12500,Zon 1,KUND-14879,,,
+GG-2025-00190,GG-2025-00190-3,2025-03-07,2025-03-09,2025-03-09,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,2,59.0,15,Zon 1,KUND-14879,,,
+GG-2025-00191,GG-2025-00191-1,2025-03-26,2025-03-29,2025-03-29,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,2,79.0,300,Zon 1,KUND-13846,,,
+GG-2025-00191,GG-2025-00191-2,2025-03-26,2025-03-29,2025-03-29,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,1,79.0,300,Zon 1,KUND-13846,Jättebra service och produkter av hög kvalitet.,2025-04-01,5
+GG-2025-00191,GG-2025-00191-3,2025-03-26,2025-03-29,2025-03-24,PLT-TOM-001,Tomatplanta 'Tiny Tim',Färdiga plantor,Vår,4,79.0,300,Zon 1,KUND-13846,"Fröerna grodde på under en vecka, fantastiskt!",2025-04-19,5
+GG-2025-00192,GG-2025-00192-1,2025-03-22,2025-03-25,2025-03-25,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-11787,"Fick fel sort, ville ha röd pelargon, fick vit.",2025-04-13,2
+GG-2025-00192,GG-2025-00192-2,22/03/2025,2025-03-25,2025-03-25,FRO-ORT-001,"Örter mix (basilika, persilja, dill)",Frön,Vår,1,SEK 59,15,Zon 1,KUND-11787,,,
+GG-2025-00193,GG-2025-00193-1,2025-03-23,2025-03-26,2025-03-28,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,1,149.0,400,,KUND-13642,Halva fröerna var redan mögliga i påsen.,2025-04-20,1
+GG-2025-00194,GG-2025-00194-1,2025-03-23,2025-03-26,2025-03-26,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 2,KUND-14744,"Grym kvalitet på spaden, känns robust.",2025-03-29,5
+GG-2025-00194,GG-2025-00194-2,2025-03-23,2025-03-26,2025-03-26,FRO-BLO-001,Sommarblommor mix,Frön,Vår,1,69.0,20,Zon 2,KUND-14744,,,
+GG-2025-00194,GG-2025-00194-3,2025-03-23,,2025-03-26,KRU-TER-001,TERRAKOTTAKRUKA,Krukor & kärl,Alla,1,129.0,1500,Zon 2,KUND-14744,"Fick fel sort, ville ha röd pelargon, fick vit.",2025-04-07,1
+GG-2025-00195,GG-2025-00195-1,2025-03-21,,2025-03-30,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Q2,1,149.0,25000,Zon 5,KUND-12955,,,
+GG-2025-00196,GG-2025-00196-1,2025-03-03,2025-03-08,2025-03-08,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,3,49.0,5,Zon 3,KUND-13353,,,
+GG-2025-00196,GG-2025-00196-2,2025-03-03,2025-03-08,2025-03-08,PLT-ORT-001,Basilikaplanta,Färdiga plantor,Vår,2,49.0,150,Zon 3,KUND-13353,,,
+GG-2025-00197,GG-2025-00197-1,2025-03-21,2025-03-24,2025-03-24,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,5,49.0,5,Zon 2,KUND-13755,,,
+GG-2025-00198,GG-2025-00198-1,2025-03-03,2025-03-05,2025-03-05,KRU-TER-002,terrakottakruka 15cm,Krukor & kärl,Alla,1,79.0,600,Zon 1,KUND-12410,Kommer definitivt beställa igen nästa säsong.,2025-03-19,5
+GG-2025-00198,GG-2025-00198-2,2025-03-03,2025-03-05,2025-03-05,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 1,KUND-12410,,,
+GG-2025-00199,GG-2025-00199-1,2025-03-08,,2025-03-11,VER-SKY-001,Trädgårdsspade,Verktyg & tillbehör,Alla,3,199.0,800,Zon 2,KUND-14035,,,
+GG-2025-00199,GG-2025-00199-2,2025-03-08,2025-03-11,2025-03-11,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,,1,129.0,1500,Zon 2,KUND-14035,Löken var möglig. Kunde inte plantera.,2025-03-29,1
+GG-2025-00200,GG-2025-00200-1,2025-03-26,2025-04-03,2025-04-03,JOR-PLA-001,Planteringsjord 50L,Jord & näring,Vår,1,149.0,25000,Zon 5,KUND-10480,,,
+GG-2025-00200,GG-2025-00200-2,2025-03-26,2025-04-03,2025-04-03,FRO-GUR-001,Gurkfrön 'Marketmore',Frön,Vår,2,45.0,0.01kg,Zon 5,KUND-10480,,,
+GG-2025-00200,GG-2025-00200-3,2025-03-26,2025-04-03,2025-04-03,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,3,89.0,12500,Zon 5,KUND-10480,,,
+GG-2025-00201,GG-2025-00201-1,27.03.2025,2025-04-06,2025-04-09,KRU-PLA-001,Plastlåda balkong 60cm,Krukor & kärl,Alla,2,149.0,400,Zon 5,KUND-10989,Ok kvalitet men lite dyrt tycker jag.,2025-04-22,3
+GG-2025-00202,GG-2025-00202-1,2025-03-06,2025-03-10,2025-03-10,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 2,KUND-14172,Priset är högt för vad man får.,2025-03-20,3
+GG-2025-00203,GG-2025-00203-1,2025-03-16,2025-03-21,2025-03-21,FRO-ORT-001,örter mix,Frön,Vår,2,59.0,15,Zon 4,KUND-13269,,,
+GG-2025-00203,GG-2025-00203-2,2025-03-16,2025-03-21,2025-03-21,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zon 4,KUND-13269,,,
+GG-2025-00204,GG-2025-00204-1,2025-03-17,2025-03-22,2025-03-22,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,1,59.0,250,Zon 4,KUND-11833,Leveransen var ok men förpackningen kunde varit bättre.,2025-03-26,3
+GG-2025-00204,GG-2025-00204-2,2025-03-17,2025-03-22,2025-03-22,PLT-ORT-002,Persilja i kruka,Färdiga plantor,Vår,1,45.0,200,Zon 4,KUND-11833,"Plantorna var i perfekt skick, rekommenderas varmt.",2025-04-20,5
+GG-2025-00204,GG-2025-00204-3,2025-03-17,2025-03-22,2025-03-22,PLT-TOM-002,Tomatplanta 'Biff',Färdiga plantor,Vår,2,89.0,350,Zon 4,KUND-11833,,,
+GG-2025-00205,GG-2025-00205-1,2025-03-01,2025-03-03,2025-03-03,KRU-TER-001,Terrakottakruka 25cm,Krukor & kärl,Alla,1,129.0,1500,Zon 1,KUND-14544,Jättebra service och produkter av hög kvalitet.,2025-03-26,4
+GG-2025-00205,GG-2025-00205-2,2025-03-01,2025-03-03,2025-03-03,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 1,KUND-14544,,,
+GG-2025-00206,GG-2025-00206-1,2025-03-10,2025-03-14,2025-03-18,PLT-BLO-001,Pelargon röd,Färdiga plantor,Vår,1st,69.0,400,Zon 2,KUND-11521,,,
+GG-2025-00206,GG-2025-00206-2,2025-03-10,2025-03-14,2025-03-18,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,2,55.0,5,Zon 2,KUND-11521,"Bra pris och snabb leverans, 5 stjärnor!",2025-03-21,5
+GG-2025-00207,GG-2025-00207-1,2025-03-08,2025-03-10,2025-03-10,PLT-BLO-002,Petunia mix,Färdiga plantor,Vår,1,59.0,250,Zon 1,KUND-14989,,,
+GG-2025-00207,GG-2025-00207-2,2025-03-08,,2025-03-04,JOR-PLA-002,Planteringsjord 25L,Jord & näring,Vår,1,89.0,12500,Zone 1,KUND-14989,Snabb leverans och bra kvalitet på jorden.,2025-03-27,5
+GG-2025-00208,GG-2025-00208-1,2025-03-23,2025-04-02,2025-04-02,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,3,49.0,5,Zon 5,KUND-13171,,,
+GG-2025-00208,GG-2025-00208-2,2025-03-23,2025-04-02,2025-04-02,FRO-TOM-002,Tomatfrön 'Biff',Frön,Tidig vår,3,55.0,5,Zon 5,KUND-13171,,,
+GG-2025-00209,GG-2025-00209-1,2025-03-20,2025-03-24,2025-03-18,VER-VAN-001,Vattenkanna 10L,Verktyg & tillbehör,Alla,3,179.0,600,Zon 2,KUND-10253,,,
+GG-2025-00210,GG-2025-00210-1,2025-03-13,2025-03-18,2025-03-18,FRO-TOM-001,Tomatfrön 'Tiny Tim',Frön,Tidig vår,1,49.0,5,Zon 3,KUND-14702,"Tomaterna växer som aldrig förr, tack!",2025-03-25,5

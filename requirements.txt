@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+jupyterlab
+notebook
+python-dotenv
+transformers
+sentence-transformers
+torch   
+pandera
+scikit-learn
+tqdm
+nbstripout

@@ -1,0 +1,15 @@
+.venv/
+.env
+env/
+venv/
+
+pycache/
+*.pyc
+.idea/
+
+.vscode/
+data/processed/
+*.db
+
+.ipynb_checkpoints
+*.ipynb
