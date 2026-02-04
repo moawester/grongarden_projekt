@@ -7,6 +7,11 @@ Antal, pris och vikt_gram - Ta bort alla tillägg och endast ha kvar siffror och
 Leveranszon - Kolla så att det är rätt datatyp och om det behövs en mapping.
 Recension_text - se hur jag ska lägga upp så det är lätt att läsa och få med positiv, neutral eller negativ.
 
+recensionsdatum verkar stämma och behöver inte tvättas.
+kategori behöver inte tvättas.
+
+Produktnamn - Här bestämde jag att det blir bäst att försöka göra det till så få produktnamn som möjligt. Därför har jag tagit bort extra tillägg på de produkter som det behövts för att göra färre skillnader. Till exempel har jag valt att göra alla tomatfrön under samma namn och tänkt att typ av tomatfrö blir som ett tillägg att välja senare. Sedan tog jag bort storleken på till exempel terrakottakrukan och tänkte på samma sätt där.
+
 
 
 **Vilka kolumner behöver tvättas?**
