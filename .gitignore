@@ -12,4 +12,4 @@ data/processed/
 *.db
 
 .ipynb_checkpoints
-*.ipynb
+
