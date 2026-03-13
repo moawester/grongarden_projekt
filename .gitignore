@@ -9,7 +9,6 @@ pycache/
 
 .vscode/
 data/processed/
-*.db
 
 .ipynb_checkpoints
 
